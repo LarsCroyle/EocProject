@@ -17,12 +17,6 @@ The "BloodPumpSystem" will then take the "unoxygenated blood" data and turn it i
 
 That is a contrived example but it is how this framework fundamentally operates on any example. All code follows a similar structure and principle of this example.
 
-## Concept and Assets
-Concept is found on a trello page https://trello.com/b/nIf0QOFK/darkheart
-
-Assets are managed in Roblox Studio, because Rojo's RBXM file management is awful and I cannot be asked to deal with the constraints, so just running this code in studio by itself will error.
-The game link is found at https://www.roblox.com/games/13038676568/Darkheart
-
 ## The information on the Backend
 
 There are dozens of Systems working on both the Client and Server side of this project, each one trying to squeeze in it's workload and all be crammed with each other system into a frame's worth of work.
